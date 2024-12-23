@@ -1,0 +1,20 @@
+# macOS 產生的資源庫文件
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# macOS 特有的目錄屬性
+Icon?
+._*
+
+# 自動生成的 `.Spotlight-V100` 和 `.Trashes`
+.Spotlight-V100
+.Trashes
+
+# macOS 運行時的臨時文件
+._*
+
+# 虛擬環境的文件
+/bin
+/include
+/lib
